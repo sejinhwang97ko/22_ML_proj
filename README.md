@@ -20,4 +20,7 @@ github desktop를 통해 main 브랜치나 자신이 만든 브랜치에 폴더�
 
 -지금까지 올린 파일들-(상단의 Go to file 초록 버튼 클릭)
 1) 전처리/eda.ipynb
-2) 전처리/lgbm
+2) 전처리/function example.ipynb
+3) 전처리/preprocessing.ipynb
+4) data/Loan_Default.csv
+5) 앙상블/랜덤포레스트/랜덤포레스트.ipynb
