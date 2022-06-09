@@ -25,14 +25,8 @@ github desktop를 통해 main 브랜치나 자신이 만든 브랜치에 폴더�
 * data * Loan_Default.csv  
 * 전체 * model_evaluate (4).ipynb * model_evaluate.ipynb  
 * 앙상블 * 부스팅 * LightGBM * lgb_model.ipynb * lgb_model (1).ipynb  
-  |                   ├─XGBoost  
-  |                              xgb_model.ipynb  
-  |                              xgb_model (1).ipynb                   
-  |                   ├─Catboost  
-  |                             cat_model.ipynb  
-  |                             cat_model (1).ipynb  
-  |         ├─랜덤포레스트  
-  |                   rf_model.ipynb  
-  |                   feature importance.ipynb  
+> XGBoost * xgb_model.ipynb * xgb_model (1).ipynb  
+> Catboost * cat_model.ipynb * cat_model (1).ipynb  
+> 랜덤포레스트 * rf_model.ipynb * feature importance.ipynb  
   | note/RandomForest_Model.ipynb  
   | note/DNN.ipynb  
