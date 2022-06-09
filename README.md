@@ -19,14 +19,30 @@ github desktop를 통해 main 브랜치나 자신이 만든 브랜치에 폴더�
 기계학습 파이팅!
 
 -지금까지 올린 파일들-(상단의 Go to file 초록 버튼 클릭)  
-* 이전 Bank Loan Default * DNN-DNN.ipynb  
+* 이전 Bank Loan Default  
+
+  DNN-DNN.ipynb  
+
 * 랜덤포레스트
 
   랜덤포레스트_loan데이터.ipynb  
 
-* 전처리 * eda.ipynb * preprocessing.ipynb  
-* data * Loan_Default.csv  
-* 전체 * model_evaluate (4).ipynb * model_evaluate.ipynb  
+* 전처리  
+  
+  eda.ipynb  
+  
+  preprocessing.ipynb  
+
+* data  
+  
+  Loan_Default.csv  
+ 
+* 전체  
+  
+  model_evaluate (4).ipynb  
+  
+  model_evaluate.ipynb  
+
 * 앙상블
 
   > 부스팅
@@ -39,5 +55,10 @@ github desktop를 통해 main 브랜치나 자신이 만든 브랜치에 폴더�
 
   > 랜덤포레스트 * rf_model.ipynb * feature importance.ipynb  
 
-* note * RandomForest_Model.ipynb * note/DNN.ipynb  
+* note  
+  
+  RandomForest_Model.ipynb  
+  
+  note/DNN.ipynb  
+
 * XAI *
