@@ -21,7 +21,9 @@ github desktop를 통해 main 브랜치나 자신이 만든 브랜치에 폴더�
 -지금까지 올린 파일들-(상단의 Go to file 초록 버튼 클릭)  
 * 이전 Bank Loan Default  
 
-  DNN-DNN.ipynb  
+  * DNN  
+    
+    DNN.ipynb  
 
 * 랜덤포레스트
 
