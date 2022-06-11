@@ -16,21 +16,18 @@
 
 - loan_projct 파일  
 
-* 전처리  
+  > graph  
   
-  eda.ipynb  
+  > > 전처리  
   
-  preprocessing.ipynb  
+  > > > eda.ipynb  
+  
+  > > > preprocessing.ipynb  
 
-* data  
+  > > data  
   
-  Loan_Default.csv  
- 
-* 전체  
-  
-  model_evaluate (4).ipynb  
-  
-  model_evaluate.ipynb  
+  > > > Loan_Default.csv  
+
 
 * 앙상블
 
