@@ -36,7 +36,7 @@
 
   > > > dnn_model.ipynb  
 
-* note  
+  > > note  
   
   cat_note.ipynb  
   
