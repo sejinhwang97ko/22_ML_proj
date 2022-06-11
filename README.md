@@ -16,35 +16,36 @@
 
 - loan_projct 파일  
 
-  > graph  
-  
-  > > 전처리  
-  
-  > > > eda.ipynb  
-  
-  > > > preprocessing.ipynb  
+  > src  
 
   > > data  
   
   > > > Loan_Default.csv  
 
+  > > model  
 
-* 앙상블
+  > > > lgb_model.ipynb  
 
-  > 부스팅
+  > > > xgb_model.ipynb  
 
-  > > LightGBM * lgb_model.ipynb * lgb_model (1).ipynb  
+  > > > cat_model.ipynb  
+  
+  > > > knn_model.ipynb  
+  
+  > > > dnn_model.ipynb  
 
-  > > XGBoost * xgb_model.ipynb * xgb_model (1).ipynb  
-
-  > > Catboost * cat_model.ipynb * cat_model (1).ipynb  
-
-  > 랜덤포레스트 * rf_model.ipynb * feature importance.ipynb  
+  > > > dnn_model.ipynb  
 
 * note  
   
-  RandomForest_Model.ipynb  
+  cat_note.ipynb  
   
-  DNN.ipynb  
+  dnn_note.ipynb  
+  
+  lgb_note.ipynb  
+  
+  rf_note.ipynb  
+  
+  xgb_note.ipynb  
 
 * XAI *
