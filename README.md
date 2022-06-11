@@ -4,7 +4,7 @@
 광운대학교 정보융합학부 2022년도 1학기 기계학습 "큐빅" 프로젝트 팀 깃허브에 오신 것을 환영합니다.
 
 -지금까지 올린 파일들-(상단의 Go to file 초록 버튼 클릭)  
-* 이전 Bank Loan Defaulter  
+- 이전 Bank Loan Defaulter 파일  
 
   > DNN  
     
@@ -13,6 +13,8 @@
   > 랜덤포레스트
 
   > > 랜덤포레스트_loan데이터.ipynb  
+
+- loan_projct 파일  
 
 * 전처리  
   
