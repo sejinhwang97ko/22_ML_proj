@@ -19,17 +19,17 @@
   
 * ### src  
   
-  * **model_evaluate.ipynb**    
+      * **model_evaluate.ipynb**    
   
-  * eda.ipynb  
+      * eda.ipynb  
   
-  * preprocessing.ipynb  
+      * preprocessing.ipynb  
   
-  * XGB_XAI.ipynb   
+      * XGB_XAI.ipynb   
 
   > data  
     
-    * Loan_Default.csv   
+      * Loan_Default.csv   
 
   > **model**  
 
@@ -53,16 +53,16 @@
   
 * note  
   
-  * cat_note.ipynb  
+      * cat_note.ipynb  
   
-  * dnn_note.ipynb  
+      * dnn_note.ipynb  
   
-  * lgb_note.ipynb  
+      * lgb_note.ipynb  
   
-  * rf_note.ipynb  
+      * rf_note.ipynb  
   
-  * xgb_note.ipynb  
+      * xgb_note.ipynb  
   
-  * knn_note.ipynb  
+      * knn_note.ipynb  
 
 
