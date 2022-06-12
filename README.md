@@ -16,8 +16,8 @@
   > > 랜덤포레스트_loan데이터.ipynb  
 
 ## loan_projct 파일  
-
-  > ### src  
+  
+* ### src  
   
   * **model_evaluate.ipynb**    
   
