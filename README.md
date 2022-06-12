@@ -27,9 +27,8 @@
   
   * XGB_XAI.ipynb   
 
-  > > data  
-  
-      * Loan_Default.csv  
+  * data  
+  - Loan_Default.csv   
 
   > > **model**  
 
