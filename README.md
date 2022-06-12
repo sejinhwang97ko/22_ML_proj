@@ -19,7 +19,7 @@
   
 * ### src  
   
-      * **model_evaluate.ipynb**    
+      * model_evaluate.ipynb    
   
       * eda.ipynb  
   
@@ -51,7 +51,7 @@
   
       * model_XAI.html  
   
-* note  
+* ### note
   
       * cat_note.ipynb  
   
@@ -64,5 +64,13 @@
       * xgb_note.ipynb  
   
       * knn_note.ipynb  
+      
+* ### graph  
+
+      * msno_before  
+      
+      * msno_after 
+
+      * roc_curve  
 
 
