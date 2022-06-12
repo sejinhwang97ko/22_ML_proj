@@ -29,27 +29,27 @@
 
   > > data  
   
-    * Loan_Default.csv  
+      * Loan_Default.csv  
 
   > > model  
 
-  > > > lgb_model.ipynb  
+      * lgb_model.ipynb  
 
-  > > > xgb_model.ipynb  
+      * xgb_model.ipynb  
 
-  > > > cat_model.ipynb  
+      * cat_model.ipynb  
   
-  > > > knn_model.ipynb  
+      * knn_model.ipynb  
   
-  > > > dnn_model.ipynb  
+      * dnn_model.ipynb  
 
-  > > > rf_model.ipynb  
+      * rf_model.ipynb  
 
   > > XAI  
   
-  > > > xgb_xai.html  
+      * xgb_xai.html  
   
-  > > > model_XAI.html  
+      * model_XAI.html  
 
   > note  
   
