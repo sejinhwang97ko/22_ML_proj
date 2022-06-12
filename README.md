@@ -29,7 +29,7 @@
   
       * XGB_XAI.ipynb   
 
-  > data  
+ * data  
     
       * Loan_Default.csv = 코드 돌아가는 데 꼭 필요한 세부 파일  
 
@@ -47,7 +47,7 @@
 
       * rf_model.ipynb = 코드 돌아가는 데 꼭 필요한 세부 파일  
 
-  > XAI  
+ * XAI  
   
       * xgb_xai.html  
   
