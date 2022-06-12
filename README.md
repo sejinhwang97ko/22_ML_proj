@@ -9,13 +9,13 @@
 
 - 이전 Bank Loan Defaulter 폴더  
 
-  * DNN  
-    
-  > > DNN.ipynb  
+  * DNN 
+   
+        * DNN.ipynb  
 
   * 랜덤포레스트
 
-  > > 랜덤포레스트_loan데이터.ipynb  
+        * 랜덤포레스트_loan데이터.ipynb  
 
 ## loan_projct 폴더   
   
