@@ -27,10 +27,11 @@
   
   * XGB_XAI.ipynb   
 
-  * data  
-  + Loan_Default.csv   
+  > data  
+    
+    * Loan_Default.csv   
 
-  > > **model**  
+  > **model**  
 
       * lgb_model.ipynb  
 
@@ -44,13 +45,13 @@
 
       * rf_model.ipynb  
 
-  > > XAI  
+  > XAI  
   
       * xgb_xai.html  
   
       * model_XAI.html  
-
-  > note  
+  
+* note  
   
   * cat_note.ipynb  
   
