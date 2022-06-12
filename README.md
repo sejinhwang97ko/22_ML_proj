@@ -45,18 +45,24 @@
 
   > > > rf_model.ipynb  
 
-  > > note  
+  > > XAI  
   
-  cat_note.ipynb  
+  > > > xgb_xai.html  
   
-  dnn_note.ipynb  
-  
-  lgb_note.ipynb  
-  
-  rf_note.ipynb  
-  
-  xgb_note.ipynb  
-  
-  knn_note.ipynb  
+  > > > model_XAI.html  
 
-* XAI *
+  > note  
+  
+  * cat_note.ipynb  
+  
+  * dnn_note.ipynb  
+  
+  * lgb_note.ipynb  
+  
+  * rf_note.ipynb  
+  
+  * xgb_note.ipynb  
+  
+  * knn_note.ipynb  
+
+
